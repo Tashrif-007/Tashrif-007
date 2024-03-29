@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Tashrif</h1>
 <h3 align="center">A Competitive Programmer and beginner React.js developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saimon4u&label=Profile%20views&color=0e75b6&style=flat" alt="tashrif2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tashrif2001&label=Profile%20views&color=0e75b6&style=flat" alt="tashrif2001" /> </p>
 
 - 🌱 I’m currently learning **React.js, DSA, MERN stack**
 
