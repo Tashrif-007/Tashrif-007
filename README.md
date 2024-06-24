@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Tashrif</h1>
-<h3 align="center">A Competitive Programmer and beginner React.js developer from Bangladesh</h3>
+<h3 align="center">A Competitive Programmer and beginner Next.js developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tashrif-007&label=Profile%20views&color=0e75b6&style=flat" alt="Tashrif-007" /> </p>
 
-- 🌱 I’m currently learning **React.js, DSA, MERN stack**
+- 🌱 I’m currently learning **Next.js, DSA, MERN stack**
 
 - 📫 How to reach me **bsse1448@iit.du.ac.bd**
 
@@ -20,6 +20,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
